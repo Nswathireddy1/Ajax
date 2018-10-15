@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+
+<college>
+
+
+  -<student>
+
+    <fname>Anjali</fname>
+
+    <lname>Valmiki</lname>
+
+    <branch>MCA</branch>
+
+    <no>15bf1f0082</no>
+
+    <year>2015</year>
+
+  </student>
+
+
+  -<student>
+
+    <fname>Deva</fname>
+
+    <lname>Naidu</lname>
+
+    <branch>MCA</branch>
+
+    <no>15bf1f0078</no>
+
+    <year>2015</year>
+
+  </student>
+
+
+  -<student>
+
+    <fname>Mahi</fname>
+
+    <lname>Vasanth</lname>
+
+    <branch>MCA</branch>
+
+    <no>15bf1f0052</no>
+
+    <year>2015</year>
+
+  </student>
+
+
+  -<student>
+
+    <fname>Chandra</fname>
+
+    <lname>naga</lname>
+
+    <branch>Bca</branch>
+
+    <no>16cf1f0014</no>
+
+    <year>2016</year>
+
+  </student>
+
+</college>
